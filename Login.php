@@ -15,7 +15,7 @@
 
 <body>
     <div class="d-flex justify-content-center align-items-center" style="min-height: 100vh">
-        <form class="p-5 rounded shadow" style="max-width: 30rem; width: 100%" method="POST" action="php/auth.php">
+        <form class="p-5 rounded shadow" style="max-width: 30rem; width: 100%" method="post" action="php/auth.php">
             <h1 class="text-center display-4 pb-5">Login</h1>
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Email address</label>
